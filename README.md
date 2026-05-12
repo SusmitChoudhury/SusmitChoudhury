@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Susmit Choudhury
+# Susmit Choudhury
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Python+Programmer;Real-Time+Systems+Builder;Open+Source+Contributor" />
 
