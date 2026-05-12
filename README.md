@@ -1,6 +1,6 @@
 # 🚀README for Susmit Choudhury
 
-````md
+```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Susmit%20Choudhury&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Learner%20%7C%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" width="100%"/>
@@ -253,3 +253,5 @@ Your GitHub profile will instantly become premium and colorful.
 * Dynamic blog section
 * Visitor heatmap
 * Contribution 3D calendar
+
+```
